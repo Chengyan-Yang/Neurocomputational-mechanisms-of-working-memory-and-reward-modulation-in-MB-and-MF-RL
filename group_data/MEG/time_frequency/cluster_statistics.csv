@@ -1,0 +1,24 @@
+Cluster #,Original Cluster Index,Phase,Power Type,Band,Effect,Time Window (ms),Peak Time (ms),Peak Sensor,Peak T-value,Size (Sensors),Size (Spatiotemporal Points),Touches Analysis Boundary,Cluster-level pFWE,Phase-wise Bonferroni p (x12),Study-wise Bonferroni p (x48),cluster_key,effect_key,pFWE_exact,p_phase_x12,p_study_x48
+1,0,transition,total,beta,High load - Low load,0 - 500,320,MLP45,-6.58,216,4474,True,0.0003,0.0036,0.0144,transition_beta_load_C1,load,0.0003,0.0036,0.0144
+1,1,transition,total,beta,Large reward - Small reward,70 - 210,160,MLF67,-4.84,26,140,False,0.0438,0.5256,1.0,transition_beta_magnitude_C1,magnitude,0.0438,0.5256,1.0
+1,0,transition,total,alpha,High load - Low load,0 - 450,0,MRP21,-4.34,98,1069,True,0.0098,0.1176,0.4704,transition_alpha_load_C1,load,0.0098,0.1176,0.4704
+1,4,incentive,total,theta,Large reward - Small reward,280 - 510,390,MRO41,4.29,25,277,False,0.0382,0.4584,1.0,incentive_theta_magnitude_C1,magnitude,0.0382,0.4584,1.0
+1,16,incentive,total,beta,Large reward - Small reward,370 - 770,540,MRO41,-6.38,136,2253,False,0.0001,0.0012,0.0048,incentive_beta_magnitude_C1,magnitude,0.0001,0.0012000000000000001,0.0048000000000000004
+1,11,incentive,total,alpha,Large reward - Small reward,410 - 810,620,MZO02,-6.82,109,2025,False,0.0001,0.0012,0.0048,incentive_alpha_magnitude_C1,magnitude,0.0001,0.0012000000000000001,0.0048000000000000004
+1,5,feedback,total,theta,High load - Low load,300 - 930,400,MRO14,-6.07,191,3600,False,0.0044,0.0528,0.2112,feedback_theta_load_C1,load,0.0044,0.0528,0.2112
+1,0,feedback,total,theta,Large reward - Small reward,530 - 1080,650,MRT53,6.8,188,3764,False,0.0001,0.0012,0.0048,feedback_theta_magnitude_C1,magnitude,0.0001,0.0012000000000000001,0.0048000000000000004
+1,24,feedback,total,low_gamma,Large reward - Small reward,840 - 990,890,MLT15,4.78,20,123,False,0.0294,0.3528,1.0,feedback_low_gamma_magnitude_C1,magnitude,0.0294,0.3528,1.0
+2,60,feedback,total,low_gamma,Large reward - Small reward,650 - 820,780,MLO23,-5.73,81,620,False,0.0001,0.0012,0.0048,feedback_low_gamma_magnitude_C2,magnitude,0.0001,0.0012000000000000001,0.0048000000000000004
+1,8,feedback,total,beta,High load - Low load,0 - 590,0,MLF67,-5.5,70,963,True,0.0353,0.4236,1.0,feedback_beta_load_C1,load,0.0353,0.4236,1.0
+1,8,feedback,total,beta,Large reward - Small reward,1020 - 1360,1230,MRC25,4.81,51,616,False,0.0098,0.1176,0.4704,feedback_beta_magnitude_C1,magnitude,0.0098,0.1176,0.4704
+2,9,feedback,total,beta,Large reward - Small reward,1130 - 1410,1200,MLC24,4.82,29,325,False,0.0379,0.4548,1.0,feedback_beta_magnitude_C2,magnitude,0.0379,0.45480000000000004,1.0
+3,21,feedback,total,beta,Large reward - Small reward,650 - 930,770,MLO21,-9.02,190,2523,False,0.0001,0.0012,0.0048,feedback_beta_magnitude_C3,magnitude,0.0001,0.0012000000000000001,0.0048000000000000004
+1,8,feedback,total,alpha,High load - Low load,300 - 880,380,MRO32,-6.48,143,3004,False,0.0043,0.0516,0.2064,feedback_alpha_load_C1,load,0.0043,0.0516,0.2064
+1,5,feedback,total,alpha,Large reward - Small reward,570 - 760,680,MRT53,5.63,62,514,False,0.0108,0.1296,0.5184,feedback_alpha_magnitude_C1,magnitude,0.0108,0.1296,0.5184
+2,26,feedback,total,alpha,Large reward - Small reward,720 - 880,780,MLO12,-8.4,76,841,False,0.0009,0.0108,0.0432,feedback_alpha_magnitude_C2,magnitude,0.0009,0.0108,0.0432
+1,8,decision,total,theta,High load - Low load,360 - 1020,520,MZC03,-5.76,31,875,False,0.027,0.324,1.0,decision_theta_load_C1,load,0.027,0.324,1.0
+1,1,decision,total,theta,Large reward - Small reward,920 - 1190,1040,MRC16,4.73,16,257,False,0.0409,0.4908,1.0,decision_theta_magnitude_C1,magnitude,0.0409,0.4908,1.0
+1,8,decision,total,low_gamma,Load x Reward interaction,310 - 420,380,MLF35,4.87,25,94,False,0.0354,0.4248,1.0,decision_low_gamma_interaction_C1,interaction,0.0354,0.4248,1.0
+1,16,decision,total,low_gamma,High load - Low load,370 - 1500,1320,MLP52,-7.3,193,6672,True,0.0001,0.0012,0.0048,decision_low_gamma_load_C1,load,0.0001,0.0012000000000000001,0.0048000000000000004
+1,19,decision,total,beta,High load - Low load,540 - 1500,1430,MLP56,-7.66,261,18726,True,0.0001,0.0012,0.0048,decision_beta_load_C1,load,0.0001,0.0012000000000000001,0.0048000000000000004
+1,12,decision,total,alpha,High load - Low load,670 - 1500,1450,MZC04,-5.44,229,7614,True,0.0003,0.0036,0.0144,decision_alpha_load_C1,load,0.0003,0.0036,0.0144

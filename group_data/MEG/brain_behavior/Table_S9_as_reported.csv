@@ -1,0 +1,7 @@
+Analysis,Behavioral parameter,MEG phase,MEG measure,Band or signal,MEG contrast,Time window (ms),Spatial,Standardized beta,95% CI lower,95% CI upper,pFDR
+MB modulation,beta_MB_load,Decision,ERF source,Source,WM Load: H-L,305-660,Right insula predominant; peak right entorhinal cortex,-0.434,-0.721,-0.146,0.008
+MB modulation,beta_MB_load,Decision,TFA,Beta,WM Load: H-L,540-1500,"Peak sensor MLP56, left parietal region",-0.456,-0.738,-0.174,0.008
+MB modulation,beta_MB_load,Decision,TFA,Low gamma,WM Load: H-L,370-1500,"Peak sensor MLP52, left parietal region",-0.345,-0.640,-0.049,0.031
+MB intercept,beta_MB_b0,Decision,TFA,Beta,WM Load: H-L,540-1500,"Peak sensor MLP56, left parietal region",-0.506,-0.777,-0.235,0.002
+MB intercept,beta_MB_b0,Decision,TFA,Low gamma,WM Load: H-L,370-1500,"Peak sensor MLP52, left parietal region",-0.419,-0.703,-0.136,0.009
+MB intercept,beta_MB_b0,Feedback,TFA,Beta,Reward: H-L,650-930,"Peak sensor MLO21, left occipital region",0.468,0.201,0.735,0.007

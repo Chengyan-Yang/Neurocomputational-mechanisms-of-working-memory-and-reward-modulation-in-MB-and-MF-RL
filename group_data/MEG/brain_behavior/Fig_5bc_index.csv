@@ -1,0 +1,7 @@
+panel,scatter_key,map_key,outcome,partial_r,beta,p,p_fdr
+5b,decision_source_load_C3_beta_mb_load,decision_source_load_C3,beta_mb_load,-0.41591590243202087,-0.433501003564655,0.0040435286347232,0.0080870572694465
+5b,decision_beta_load_C1_beta_mb_load,decision_beta_load_C1,beta_mb_load,-0.4412498743525517,-0.45590213242643474,0.0021437886675093,0.0080870572694465
+5b,decision_low_gamma_load_C1_beta_mb_load,decision_low_gamma_load_C1,beta_mb_load,-0.3341893268381075,-0.3447466683657125,0.0232134913783812,0.0309513218378416
+5c,decision_beta_load_C1_beta_mb_b0,decision_beta_load_C1,beta_mb_b0,-0.4936914334591744,-0.5062006674692118,0.0004892645497495858,0.0019570581989983
+5c,decision_low_gamma_load_C1_beta_mb_b0,decision_low_gamma_load_C1,beta_mb_b0,-0.40970767094092664,-0.41943212513863204,0.0046899506042197,0.0093799012084394
+5c,feedback_beta_magnitude_C3_beta_mb_b0,feedback_beta_magnitude_C3,beta_mb_b0,0.4704600491323908,0.4682550579230382,0.000969054895556766,0.0067833842688973

@@ -1,0 +1,7 @@
+"Parameter","Effect","Median","Mean","HDI_low","HDI_high","P_gt_0","P_lt_0","Evidence"
+"beta_mf","WM load main effect: high load - low load",-0.0140449505246626,-0.0138398474923741,-0.0610447883828666,0.0345140332146522,0.28625,0.71375,"95% HDI includes 0"
+"beta_mf","Reward main effect: large reward - small reward",0.00212616418277414,0.00225744161169487,-0.0442012410679912,0.0494137382919829,0.53325,0.46675,"95% HDI includes 0"
+"beta_mf","WM load x reward interaction",0.0300791699320251,0.0310815445637196,-0.0663371202175207,0.12211486053398,0.74125,0.25875,"95% HDI includes 0"
+"beta_mb","WM load main effect: high load - low load",-0.216612920235074,-0.215636314184562,-0.272676659122775,-0.14869214247784,0,1,"95% HDI excludes 0"
+"beta_mb","Reward main effect: large reward - small reward",0.037674282369464,0.0376211554312108,-0.00605177834458942,0.083954099945792,0.94775,0.05225,"95% HDI includes 0"
+"beta_mb","WM load x reward interaction",-0.107972095019295,-0.108670469596499,-0.197354014738449,-0.0175535228972742,0.0075,0.9925,"95% HDI excludes 0"

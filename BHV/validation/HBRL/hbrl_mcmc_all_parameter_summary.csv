@@ -1,2 +1,0 @@
-subjects,n_parameters,n_undefined_rhat,n_constant_parameters,max_rhat,n_rhat_gt_1_01,n_rhat_gt_1_05,min_bulk_ess,min_tail_ess
-52,1517,8,8,1.0092937668667483,0,0,728.1554623897125,631.5077817422927

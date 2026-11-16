@@ -1,0 +1,3 @@
+Cluster #,Simple Effect,t-value,Uncorrected p-value,Bonferroni-adjusted p-value (2 tests)
+1,Large reward - Small reward at Low load,-5.084908820130657,6.309170825391194e-06,1.2618341650782387e-05
+1,Large reward - Small reward at High load,5.590145181124801,1.116564033997768e-06,2.233128067995536e-06

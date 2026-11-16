@@ -1,0 +1,3 @@
+Cluster #,Simple effect,t-value,Uncorrected p-value,Bonferroni-adjusted p-value (2 tests),Significance label
+1,Large reward - Small reward at Low WM,-5.255790988601143,3.524768427994967e-06,7.049536855989934e-06,***
+1,Large reward - Small reward at High WM,0.8108429802956407,0.4215429153904294,0.8430858307808589,ns

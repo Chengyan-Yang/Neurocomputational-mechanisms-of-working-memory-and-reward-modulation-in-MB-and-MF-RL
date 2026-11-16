@@ -1,0 +1,10 @@
+panel,saved_time_bins,phase,effect,cluster_number,cluster_index,window_ms,hemisphere,region,file
+3e,1,transition,interaction,1,1140,270 - 350,R,lingual,Fig_3e_transition_interaction_C1.npz
+3d,1,transition,load,1,1397,340 - 500,L,fusiform,Fig_3d_transition_load_C1.npz
+3b,2,incentive,load,1,4323,495 - 760,L,medialorbitofrontal,Fig_3b_incentive_load_C1.npz
+3a,2,incentive,reward,1,1565,330 - 425,L,supramarginal,Fig_3a_incentive_magnitude_C1.npz
+3a,2,incentive,reward,4,2696,470 - 540,L,supramarginal,Fig_3a_incentive_magnitude_C4.npz
+3f,1,feedback,reward,1,2042,605 - 905,L,superiorparietal,Fig_3f_feedback_magnitude_C1.npz
+3f,1,feedback,reward,2,2082,615 - 960,R,inferiorparietal,Fig_3f_feedback_magnitude_C2.npz
+3f,1,feedback,reward,4,7947,405 - 570,R,superiorfrontal,Fig_3f_feedback_magnitude_C4.npz
+3c,3,decision,load,3,6196,305 - 660,R,insula,Fig_3c_decision_load_C3.npz
